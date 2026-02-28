@@ -29,3 +29,7 @@ Try additional models (Decision Tree, Random Forest)
 Perform hyperparameter tuning
 
 Improve feature selection
+
+
+**The data used here is churn_data.csv
+source-sample data from coursera
